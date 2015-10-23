@@ -1,0 +1,10 @@
+<md-content ng-init="loadNotices()">
+  <md-card id="notice">
+    <img ng-hide="!notice.thumbnail_images.full.url" ng-src="{{notice.thumbnail_images.full.url}}" class="md-card-image" alt="{{notice.title}}">
+    <md-card-content>
+      <h2>{{notice.title}}</h2>
+      <div ng-bind-html="notice.content"></div>
+    </md-card-content>
+    <md-button class="md-button-custom md-raised" ng-click="backNotices()">Voltar</md-button>
+  </md-card>
+</md-content>

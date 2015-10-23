@@ -1,0 +1,13 @@
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\br.phellipelins.rcariri.dll
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\br.phellipelins.rcariri.pdb
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\br.phellipelins.rcariri.g.resources
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\br.phellipelins.rcariri.dll
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\br.phellipelins.rcariri.pdb
+C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\XapCacheFile.xml

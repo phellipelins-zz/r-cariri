@@ -1,0 +1,54 @@
+<md-tabs md-dynamic-height="" md-border-bottom="">
+  <md-tab label="05 Nov">
+    <md-content class="md-padding">
+      <md-list-item class="md-2-line party-item" ng-repeat="($key, party) in parties | filter:filterByDate('05 / 11 / 2015')">
+        <img ng-src="{{party.thumbnail}}" class="md-avatar" alt="{{party.title}}">
+        <div class="md-list-item-text">
+          <h3>{{party.title}}</h3>
+          <p id="party-bands">{{party.custom_fields.meta_box_bands[0]}}</p>
+          <p id="party-hour">{{party.custom_fields.meta_box_party_hour[0]}}</p>
+          <div id="party-content" ng-bind-html="party.content"></div>
+        </div>
+      </md-list-item>
+    </md-content>
+  </md-tab>
+  <md-tab label="06 Nov">
+    <md-content class="md-padding">
+      <md-list-item class="md-2-line party-item" ng-repeat="($key, party) in parties | filter:filterByDate('06 / 11 / 2015')">
+        <img ng-src="{{party.thumbnail}}" class="md-avatar" alt="{{party.title}}">
+        <div class="md-list-item-text">
+          <h3>{{party.title}}</h3>
+          <p id="party-bands">{{party.custom_fields.meta_box_bands[0]}}</p>
+          <p id="party-hour">{{party.custom_fields.meta_box_party_hour[0]}}</p>
+          <div id="party-content" ng-bind-html="party.content"></div>
+        </div>
+      </md-list-item>
+    </md-content>
+  </md-tab>
+  <md-tab label="07 Nov">
+    <md-content class="md-padding">
+      <md-list-item class="md-2-line party-item" ng-repeat="($key, party) in parties | filter:filterByDate('07 / 11 / 2015')">
+        <img ng-src="{{party.thumbnail}}" class="md-avatar" alt="{{party.title}}">
+        <div class="md-list-item-text">
+          <h3>{{party.title}}</h3>
+          <p id="party-bands">{{party.custom_fields.meta_box_bands[0]}}</p>
+          <p id="party-hour">{{party.custom_fields.meta_box_party_hour[0]}}</p>
+          <div id="party-content" ng-bind-html="party.content"></div>
+        </div>
+      </md-list-item>
+    </md-content>
+  </md-tab>
+  <md-tab label="08 Nov">
+    <md-content class="md-padding">
+      <md-list-item class="md-2-line party-item" ng-repeat="($key, party) in parties | filter:filterByDate('08 / 11 / 2015')">
+        <img ng-src="{{party.thumbnail}}" class="md-avatar" alt="{{party.title}}">
+        <div class="md-list-item-text">
+          <h3>{{party.title}}</h3>
+          <p id="party-bands">{{party.custom_fields.meta_box_bands[0]}}</p>
+          <p id="party-hour">{{party.custom_fields.meta_box_party_hour[0]}}</p>
+          <div id="party-content" ng-bind-html="party.content"></div>
+        </div>
+      </md-list-item>
+    </md-content>
+  </md-tab>
+</md-tabs>

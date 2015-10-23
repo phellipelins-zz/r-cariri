@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "package.appxmanifest": {
+                "parents": {
+                    "/Package/Capabilities": [
+                        {
+                            "xml": "<DeviceCapability Name=\"location\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "R Cariri"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "R Cariri"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "R Cariri"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "R Cariri"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,53 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_LOCATION\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_NETWORKING\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"NetworkStatus\"><param name=\"wp-package\" value=\"NetworkStatus\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SplashScreen\"><param name=\"wp-package\" value=\"SplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "{52a6f9b0-6d3f-11e5-93de-c730eb5c3853}"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "{52a6f9b0-6d3f-11e5-93de-c730eb5c3853}"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "{52a6f9b0-6d3f-11e5-93de-c730eb5c3853}"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{52a6f9b0-6d3f-11e5-93de-c730eb5c3853}"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,11 @@
+<md-content ng-init="loadNotices()">
+  <md-list id="notice-list">
+    <md-list-item class="md-3-line" ng-repeat="notice in notices" ng-click="openNotice(notice.id)">
+      <div class="md-list-item-text">
+        <h3>{{notice.title}}</h3>
+        <span class="time">{{notice.date | date: 'dd/M - H:M'}}</span>
+        <div id="notice-content" ng-bind-html="notice.content | limitTo: 106"><span>...</span></div>
+      </div>
+    </md-list-item>
+  </md-list>
+</md-content>

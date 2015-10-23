@@ -1,0 +1,120 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main#main {
+  min-height: 100%;
+  background-color: white;
+}
+
+section#content {
+  height: 100%;
+}
+
+@media (max-width: 360px) {
+  md-sidenav {
+    min-width: 280px;
+  }
+}
+
+md-sidenav.md-sidenav-left {
+
+  .menu-header {
+    height: 200px;
+    width: 100%;
+    background-image: url(../images/capa.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    line-height: 200px;
+
+    img {
+      display: inline-block;
+      width: 180px;
+      vertical-align: middle;
+    }
+  }
+}
+
+md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolbar) {
+  background-color: $green;
+
+  h2 span {
+    font-family: 'Roboto', serif;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  button.page-icon {
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30px;
+  }
+}
+
+ul#menu {
+  padding-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  list-style: none;
+  
+  li {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+
+    a {
+      display: inline-block;
+      width: 100%;
+      font-family: 'Roboto', serif;
+      font-weight: 700;
+      font-size: 16px;
+      color: $purple;
+      line-height: 45px;
+      padding-left: 26px;
+      position: relative;
+      text-decoration: none;
+
+      i {
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-color: transparent;
+        background-size: contain;
+        vertical-align: middle;
+        display: inline-block;
+        position: relative;
+        left: -26px;
+        width: 25px;
+        height: 25px;
+
+        &.list {
+          background-image: url(../images/icons-menu/list.png);
+        }
+
+        &.search {
+          background-image: url(../images/icons-menu/search.png);
+        }
+
+        &.cap {
+          background-image: url(../images/icons-menu/cap.png);
+        }
+
+        &.paper {
+          background-image: url(../images/icons-menu/paper.png);
+        }
+
+        &.map {
+          background-image: url(../images/icons-menu/map.png);
+        }
+
+        &.compass {
+          background-image: url(../images/icons-menu/compass.png);
+        }
+      }
+    }
+  }
+}

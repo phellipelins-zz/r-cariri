@@ -1,0 +1,15 @@
+<md-list id="search-list">
+  <md-content class="md-padding">
+    <md-input-container ng-init="search = ''">
+      <label>Diga o que queres!</label>
+      <input ng-model="search">
+    </md-input-container>
+  </md-content>
+  <md-list-item class="md-2-line" ng-repeat="talk in talks | filter:{$: search}" ng-click="openContent(talk.id, $event)">
+    <img ng-src="{{talk.thumbnail}}" class="md-avatar" alt="{{talk.title}}">
+    <div class="md-list-item-text">
+      <h3>{{talk.title}} - {{talk.custom_fields.meta_box_local[0]}}</h3>
+      <p>{{talk.custom_fields.meta_box_talker[0]}} - {{talk.custom_fields.meta_box_hour[0]}}</p>
+    </div>
+  </md-list-item>
+</md-list>
