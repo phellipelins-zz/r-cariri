@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2RVC1C3</Machine>
+    <WindowsUser>Phellipe</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52a6f9b0-6d3f-11e5-93de-c730eb5c3853</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\br.phellipelins.rcariri.dll">
+      <PackagePath>br.phellipelins.rcariri.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\capa.png">
+      <PackagePath>www\images\capa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\hamburgueer.png">
+      <PackagePath>www\images\hamburgueer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap-white.png">
+      <PackagePath>www\images\icons-menu\cap-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap.png">
+      <PackagePath>www\images\icons-menu\cap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\compass-white.png">
+      <PackagePath>www\images\icons-menu\compass-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\compass.png">
+      <PackagePath>www\images\icons-menu\compass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list-white.png">
+      <PackagePath>www\images\icons-menu\list-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list.png">
+      <PackagePath>www\images\icons-menu\list.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map-white.png">
+      <PackagePath>www\images\icons-menu\map-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map.png">
+      <PackagePath>www\images\icons-menu\map.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper-white.png">
+      <PackagePath>www\images\icons-menu\paper-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper.png">
+      <PackagePath>www\images\icons-menu\paper.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search-white.png">
+      <PackagePath>www\images\icons-menu\search-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search.png">
+      <PackagePath>www\images\icons-menu\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\logo.png">
+      <PackagePath>www\images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\splash-screen.png">
+      <PackagePath>www\images\splash-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\yeoman.png">
+      <PackagePath>www\images\yeoman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-hdpi\icon.png">
+      <PackagePath>www\res\drawable-hdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-ldpi\icon.png">
+      <PackagePath>www\res\drawable-ldpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-mdpi\icon.png">
+      <PackagePath>www\res\drawable-mdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-hdpi\screen.png">
+      <PackagePath>www\res\drawable-port-hdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-ldpi\screen.png">
+      <PackagePath>www\res\drawable-port-ldpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-mdpi\screen.png">
+      <PackagePath>www\res\drawable-port-mdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-xhdpi\screen.png">
+      <PackagePath>www\res\drawable-port-xhdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-xhdpi\icon.png">
+      <PackagePath>www\res\drawable-xhdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.back.rest.png">
+      <PackagePath>Images\appbar.back.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.close.rest.png">
+      <PackagePath>Images\appbar.close.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.feature.video.rest.png">
+      <PackagePath>Images\appbar.feature.video.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.next.rest.png">
+      <PackagePath>Images\appbar.next.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.save.rest.png">
+      <PackagePath>Images\appbar.save.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.stop.rest.png">
+      <PackagePath>Images\appbar.stop.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\404.html">
+      <PackagePath>www\404.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\Connection.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\Connection.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\network.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\network.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\scripts.js">
+      <PackagePath>www\scripts\scripts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\vendor.js">
+      <PackagePath>www\scripts\vendor.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\favicon.ico">
+      <PackagePath>www\favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\robots.txt">
+      <PackagePath>www\robots.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\main.css">
+      <PackagePath>www\styles\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\vendor.css">
+      <PackagePath>www\styles\vendor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\VERSION">
+      <PackagePath>VERSION</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

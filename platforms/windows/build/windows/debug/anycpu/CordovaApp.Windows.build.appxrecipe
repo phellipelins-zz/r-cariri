@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2RVC1C3</Machine>
+    <WindowsUser>Phellipe</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>br.phellipelins.rcariri</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\capa.png">
+      <PackagePath>www\images\capa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\hamburgueer.png">
+      <PackagePath>www\images\hamburgueer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\cap-white.png">
+      <PackagePath>www\images\icons-menu\cap-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\cap.png">
+      <PackagePath>www\images\icons-menu\cap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\compass-white.png">
+      <PackagePath>www\images\icons-menu\compass-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\compass.png">
+      <PackagePath>www\images\icons-menu\compass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\list-white.png">
+      <PackagePath>www\images\icons-menu\list-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\list.png">
+      <PackagePath>www\images\icons-menu\list.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\map-white.png">
+      <PackagePath>www\images\icons-menu\map-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\map.png">
+      <PackagePath>www\images\icons-menu\map.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\paper-white.png">
+      <PackagePath>www\images\icons-menu\paper-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\paper.png">
+      <PackagePath>www\images\icons-menu\paper.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\search-white.png">
+      <PackagePath>www\images\icons-menu\search-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\icons-menu\search.png">
+      <PackagePath>www\images\icons-menu\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\logo.png">
+      <PackagePath>www\images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\splash-screen.png">
+      <PackagePath>www\images\splash-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\images\yeoman.png">
+      <PackagePath>www\images\yeoman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-hdpi\icon.png">
+      <PackagePath>www\res\drawable-hdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-ldpi\icon.png">
+      <PackagePath>www\res\drawable-ldpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-mdpi\icon.png">
+      <PackagePath>www\res\drawable-mdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-port-hdpi\screen.png">
+      <PackagePath>www\res\drawable-port-hdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-port-ldpi\screen.png">
+      <PackagePath>www\res\drawable-port-ldpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-port-mdpi\screen.png">
+      <PackagePath>www\res\drawable-port-mdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-port-xhdpi\screen.png">
+      <PackagePath>www\res\drawable-port-xhdpi\screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\res\drawable-xhdpi\icon.png">
+      <PackagePath>www\res\drawable-xhdpi\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\404.html">
+      <PackagePath>www\404.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Coordinates.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Coordinates.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-geolocation\www\geolocation.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\geolocation.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Position.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Position.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-geolocation\www\PositionError.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\PositionError.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-network-information\src\windows\NetworkInfoProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\src\windows\NetworkInfoProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-network-information\www\Connection.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\Connection.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-network-information\www\network.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\network.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\scripts\scripts.js">
+      <PackagePath>www\scripts\scripts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\scripts\vendor.js">
+      <PackagePath>www\scripts\vendor.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\favicon.ico">
+      <PackagePath>www\favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\robots.txt">
+      <PackagePath>www\robots.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\styles\main.css">
+      <PackagePath>www\styles\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\www\styles\vendor.css">
+      <PackagePath>www\styles\vendor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\windows\build\windows\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

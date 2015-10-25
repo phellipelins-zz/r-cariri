@@ -1,45 +1,52 @@
-﻿<xapCache source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="16/10/2015 01:04:01">
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\br.phellipelins.rcariri.dll" archivePath="br.phellipelins.rcariri.dll" lastWriteTime="16/10/2015 01:03:59" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\404.html" archivePath="www\404.html" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\data\program.json" archivePath="www\data\program.json" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\favicon.ico" archivePath="www\favicon.ico" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\capa.png" archivePath="www\images\capa.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\hamburgueer.png" archivePath="www\images\hamburgueer.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap-white.png" archivePath="www\images\icons-menu\cap-white.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap.png" archivePath="www\images\icons-menu\cap.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\compass.png" archivePath="www\images\icons-menu\compass.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list-white.png" archivePath="www\images\icons-menu\list-white.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list.png" archivePath="www\images\icons-menu\list.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map-white.png" archivePath="www\images\icons-menu\map-white.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map.png" archivePath="www\images\icons-menu\map.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper-white.png" archivePath="www\images\icons-menu\paper-white.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper.png" archivePath="www\images\icons-menu\paper.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search-white.png" archivePath="www\images\icons-menu\search-white.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search.png" archivePath="www\images\icons-menu\search.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons\chapolim.png" archivePath="www\images\icons\chapolim.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\logo.png" archivePath="www\images\logo.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\splash-screen.png" archivePath="www\images\splash-screen.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\yeoman.png" archivePath="www\images\yeoman.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\Connection.js" archivePath="www\plugins\cordova-plugin-network-information\www\Connection.js" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\network.js" archivePath="www\plugins\cordova-plugin-network-information\www\network.js" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js" archivePath="www\plugins\cordova-plugin-splashscreen\www\splashscreen.js" lastWriteTime="16/10/2015 01:03:52" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-hdpi\icon.png" archivePath="www\res\drawable-hdpi\icon.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-ldpi\icon.png" archivePath="www\res\drawable-ldpi\icon.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-mdpi\icon.png" archivePath="www\res\drawable-mdpi\icon.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-hdpi\screen.png" archivePath="www\res\drawable-port-hdpi\screen.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-ldpi\screen.png" archivePath="www\res\drawable-port-ldpi\screen.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-mdpi\screen.png" archivePath="www\res\drawable-port-mdpi\screen.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-xhdpi\screen.png" archivePath="www\res\drawable-port-xhdpi\screen.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-xhdpi\icon.png" archivePath="www\res\drawable-xhdpi\icon.png" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\robots.txt" archivePath="www\robots.txt" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\scripts.js" archivePath="www\scripts\scripts.js" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\vendor.js" archivePath="www\scripts\vendor.js" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\main.css" archivePath="www\styles\main.css" lastWriteTime="16/10/2015 01:03:51" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\vendor.css" archivePath="www\styles\vendor.css" lastWriteTime="16/10/2015 01:03:52" />
+﻿<xapCache source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\R_Cariri_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="25/10/2015 15:55:14">
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="25/10/2015 15:39:49" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\br.phellipelins.rcariri.dll" archivePath="br.phellipelins.rcariri.dll" lastWriteTime="25/10/2015 15:55:11" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="25/10/2015 13:14:00" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="25/10/2015 13:14:01" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\404.html" archivePath="www\404.html" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\favicon.ico" archivePath="www\favicon.ico" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\capa.png" archivePath="www\images\capa.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\hamburgueer.png" archivePath="www\images\hamburgueer.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap-white.png" archivePath="www\images\icons-menu\cap-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\cap.png" archivePath="www\images\icons-menu\cap.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\compass-white.png" archivePath="www\images\icons-menu\compass-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\compass.png" archivePath="www\images\icons-menu\compass.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list-white.png" archivePath="www\images\icons-menu\list-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\list.png" archivePath="www\images\icons-menu\list.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map-white.png" archivePath="www\images\icons-menu\map-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\map.png" archivePath="www\images\icons-menu\map.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper-white.png" archivePath="www\images\icons-menu\paper-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\paper.png" archivePath="www\images\icons-menu\paper.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search-white.png" archivePath="www\images\icons-menu\search-white.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\icons-menu\search.png" archivePath="www\images\icons-menu\search.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\logo.png" archivePath="www\images\logo.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\splash-screen.png" archivePath="www\images\splash-screen.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\images\yeoman.png" archivePath="www\images\yeoman.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\Connection.js" archivePath="www\plugins\cordova-plugin-network-information\www\Connection.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-network-information\www\network.js" archivePath="www\plugins\cordova-plugin-network-information\www\network.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js" archivePath="www\plugins\cordova-plugin-splashscreen\www\splashscreen.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-hdpi\icon.png" archivePath="www\res\drawable-hdpi\icon.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-ldpi\icon.png" archivePath="www\res\drawable-ldpi\icon.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-mdpi\icon.png" archivePath="www\res\drawable-mdpi\icon.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-hdpi\screen.png" archivePath="www\res\drawable-port-hdpi\screen.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-ldpi\screen.png" archivePath="www\res\drawable-port-ldpi\screen.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-mdpi\screen.png" archivePath="www\res\drawable-port-mdpi\screen.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-port-xhdpi\screen.png" archivePath="www\res\drawable-port-xhdpi\screen.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\res\drawable-xhdpi\icon.png" archivePath="www\res\drawable-xhdpi\icon.png" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\robots.txt" archivePath="www\robots.txt" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\scripts.js" archivePath="www\scripts\scripts.js" lastWriteTime="25/10/2015 15:55:05" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\scripts\vendor.js" archivePath="www\scripts\vendor.js" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\main.css" archivePath="www\styles\main.css" lastWriteTime="25/10/2015 15:55:06" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\www\styles\vendor.css" archivePath="www\styles\vendor.css" lastWriteTime="25/10/2015 15:55:06" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="07/10/2015 19:04:03" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="07/10/2015 19:04:03" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="07/10/2015 19:04:03" />
@@ -48,8 +55,10 @@
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="07/10/2015 19:04:03" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\VERSION" archivePath="VERSION" lastWriteTime="07/10/2015 19:04:03" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="07/10/2015 19:04:03" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="15/10/2015 23:43:18" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25/10/2015 15:29:19" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="07/10/2015 19:04:03" />
   <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="07/10/2015 19:04:03" />
-  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="15/10/2015 23:43:20" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25/10/2015 15:29:20" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="25/10/2015 15:55:13" />
+  <file source="C:\Users\Phellipe\workspace\node_env\public\r-cariri\platforms\wp8\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="25/10/2015 15:39:49" />
 </xapCache>

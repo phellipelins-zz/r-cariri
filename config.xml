@@ -31,10 +31,20 @@
         <preference name="Orientation" value="portrait" />
         <feature name="http://api.phonegap.com/1.0/geolocation"/>
     </platform>
-    <platform name="ios">
-        <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />
+    <platform name="wp8">
+        <allow-intent href="market:*" />
+        <preference name="SplashScreen" value="www/res/drawable-port-ldpi/screen.png" />
+        <splash src="www/res/drawable-port-ldpi/screen.png" density="port-ldpi"/>
+        <splash src="www/res/drawable-port-mdpi/screen.png" density="port-mdpi"/>
+        <splash src="www/res/drawable-port-hdpi/screen.png" density="port-hdpi"/>
+        <splash src="www/res/drawable-port-xhdpi/screen.png" density="port-xhdpi"/>
+
+        <icon src="www/res/drawable-ldpi/icon.png" density="ldpi" />
+        <icon src="www/res/drawable-mdpi/icon.png" density="mdpi" />
+        <icon src="www/res/drawable-hdpi/icon.png" density="hdpi" />
+        <icon src="www/res/drawable-xhdpi/icon.png" density="xhdpi" />
 
         <preference name="Orientation" value="portrait" />
+        <feature name="http://api.phonegap.com/1.0/geolocation"/>
     </platform>
 </widget>
