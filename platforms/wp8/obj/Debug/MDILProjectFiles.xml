@@ -36,9 +36,7 @@
     <File>www\plugins\cordova-plugin-network-information\www\Connection.js</File>
     <File>www\plugins\cordova-plugin-network-information\www\network.js</File>
     <File>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</File>
-    <File>www\res\drawable-hdpi\icon.png</File>
     <File>www\res\drawable-ldpi\icon.png</File>
-    <File>www\res\drawable-mdpi\icon.png</File>
     <File>www\res\drawable-port-hdpi\screen.png</File>
     <File>www\res\drawable-port-ldpi\screen.png</File>
     <File>www\res\drawable-port-mdpi\screen.png</File>
@@ -56,10 +54,12 @@
     <File>Images\appbar.save.rest.png</File>
     <File>Images\appbar.stop.rest.png</File>
     <File>VERSION</File>
-    <File>SplashScreenImage.jpg</File>
-    <File>AppManifest.xaml</File>
     <File>ApplicationIcon.png</File>
     <File>Background.png</File>
+    <File>SplashScreenImage.jpg</File>
+    <File>AppManifest.xaml</File>
+    <File>www\res\drawable-hdpi\icon.png</File>
+    <File>www\res\drawable-mdpi\icon.png</File>
     <File>WMAppManifest.xml</File>
     <File>AppxManifest.xml</File>
   </XAPFiles>
