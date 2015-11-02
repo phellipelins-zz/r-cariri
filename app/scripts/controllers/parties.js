@@ -12,10 +12,16 @@ angular.module('rCaririApp')
     $rootScope.pageTitle = 'Festas';
     $rootScope.pageIcon = 'cap';
     $scope.parties = [];
+    $scope.loading = {
+      status: 'indeterminate'
+    };
 
-    Parties.getParties(function(data) {
-      $scope.parties = data.posts;
-    });
+    $scope.loadParties = function() {
+      Parties.getParties(function(data) {
+        $scope.parties = data.posts;
+        $scope.loading.status = 'null';
+      });
+    }
 
     $scope.filterByDate = function(date) {
       return function (party) {

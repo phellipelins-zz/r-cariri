@@ -12,10 +12,14 @@ angular.module('rCaririApp')
     $rootScope.pageTitle = 'Programação';
     $rootScope.pageIcon = 'list';
     $scope.talks = [];
+    $scope.loading = {
+      status: 'indeterminate'
+    };
     var talkFilter = $filter;
 
     Programs.getPrograms(function(data) {
       $scope.talks = data.posts;
+      $scope.loading.status = 'null';
     });
 
     $scope.filterByDate = function(date) {

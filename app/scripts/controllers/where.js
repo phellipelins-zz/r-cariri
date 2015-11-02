@@ -33,11 +33,10 @@ angular.module('rCaririApp')
       map: map,
       position: $scope.destiny,
       animation: google.maps.Animation.BOUNCE,
-      title: 'Hello World!'
+      title: 'Hotel das Fontes'
     });
 
     $scope.generateRoute = function() {
-
       marker.setMap(null);
       navigator.geolocation.getCurrentPosition(function(position) {
         directionsDisplay.setMap(map);
@@ -56,8 +55,7 @@ angular.module('rCaririApp')
           }
         });
       }, function(error) {
-        window.alert('code: '    + error.code    + '\n' +
-              'message: ' + error.message + '\n');
+        alert('Houve algum problema com a geolocalização do seu dispositivo. Verifique se está ativada e reinicie o aplicativo!');
       });
     };
 

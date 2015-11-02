@@ -13,9 +13,13 @@ angular.module('rCaririApp')
     $rootScope.pageIcon = 'search';
     $scope.talks = {};
     var talkFilter = $filter;
+    $scope.loading = {
+      status: 'indeterminate'
+    };
 
     Programs.getPrograms(function(data) {
       $scope.talks = data.posts;
+      $scope.loading.status = 'null';
     });
 
     $scope.openContent = function(talkID, event) {

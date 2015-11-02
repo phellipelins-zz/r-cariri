@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.phellipelins.rcariri" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="br.phellipelins.rcariri" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>R Cariri</name>
     <description>
-        Encontro Regional dos Estudantes de Design do Norte/Nordeste
+        12º Encontro Regional dos Estudantes de Design do Norte/Nordeste
     </description>
     <author email="phellipelins@gmail.com" href="http://phellipelins.github.io">
         Phellipe Lins
@@ -27,9 +27,11 @@
         <icon src="www/res/drawable-mdpi/icon.png" density="mdpi" />
         <icon src="www/res/drawable-hdpi/icon.png" density="hdpi" />
         <icon src="www/res/drawable-xhdpi/icon.png" density="xhdpi" />
-
         <preference name="Orientation" value="portrait" />
         <feature name="http://api.phonegap.com/1.0/geolocation"/>
+        <feature name="Geolocation">
+            <param name="android-package" value="org.apache.cordova.geolocation.GeoBroker" />
+        </feature>
     </platform>
     <platform name="wp8">
         <allow-intent href="market:*" />
@@ -45,6 +47,8 @@
         <icon src="www/res/drawable-xhdpi/icon.png" density="xhdpi" />
 
         <preference name="Orientation" value="portrait" />
-        <feature name="http://api.phonegap.com/1.0/geolocation"/>
+        <Capabilities>
+            <Capability Name="ID_CAP_LOCATION" />
+        </Capabilities>
     </platform>
 </widget>

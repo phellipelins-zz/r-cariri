@@ -1,10 +1,12 @@
+<md-progress-linear md-mode="{{loading.status}}"></md-progress-linear>
 <md-tabs md-dynamic-height="" md-border-bottom="">
   <md-tab label="05 Nov">
     <md-content class="md-padding">
-      <md-list-item class="md-2-line" ng-repeat="($key, talk) in talks | filter:filterByDate('05 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
+      <md-list-item class="md-3-line" ng-repeat="($key, talk) in talks | filter:filterByDate('05 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
         <img ng-src="{{talk.thumbnail}}" class="md-avatar" alt="{{talk.title}}">
         <div class="md-list-item-text">
-          <h3>{{talk.title}} - {{talk.custom_fields.meta_box_local[0]}}</h3>
+          <h3>{{talk.title}}</h3>
+          <h4>{{talk.custom_fields.meta_box_local[0]}}</h4>
           <p>{{talk.custom_fields.meta_box_talker[0]}} - {{talk.custom_fields.meta_box_hour[0]}}</p>
         </div>
       </md-list-item>
@@ -12,10 +14,11 @@
   </md-tab>
   <md-tab label="06 Nov">
     <md-content class="md-padding">
-      <md-list-item class="md-2-line" ng-repeat="($key, talk) in talks | filter:filterByDate('06 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
+      <md-list-item class="md-3-line" ng-repeat="($key, talk) in talks | filter:filterByDate('06 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
         <img ng-src="{{talk.thumbnail}}" class="md-avatar" alt="{{talk.title}}">
         <div class="md-list-item-text">
-          <h3>{{talk.title}} - {{talk.custom_fields.meta_box_local[0]}}</h3>
+          <h3>{{talk.title}}</h3>
+          <h4>{{talk.custom_fields.meta_box_local[0]}}</h4>
           <p>{{talk.custom_fields.meta_box_talker[0]}} - {{talk.custom_fields.meta_box_hour[0]}}</p>
         </div>
       </md-list-item>
@@ -23,10 +26,11 @@
   </md-tab>
   <md-tab label="07 Nov">
     <md-content class="md-padding">
-      <md-list-item class="md-2-line" ng-repeat="($key, talk) in talks | filter:filterByDate('07 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
+      <md-list-item class="md-3-line" ng-repeat="($key, talk) in talks | filter:filterByDate('07 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
         <img ng-src="{{talk.thumbnail}}" class="md-avatar" alt="{{talk.title}}">
         <div class="md-list-item-text">
-          <h3>{{talk.title}} - {{talk.custom_fields.meta_box_local[0]}}</h3>
+          <h3>{{talk.title}}</h3>
+          <h4>{{talk.custom_fields.meta_box_local[0]}}</h4>
           <p>{{talk.custom_fields.meta_box_talker[0]}} - {{talk.custom_fields.meta_box_hour[0]}}</p>
         </div>
       </md-list-item>
@@ -34,10 +38,11 @@
   </md-tab>
   <md-tab label="08 Nov">
     <md-content class="md-padding">
-      <md-list-item class="md-2-line" ng-repeat="($key, talk) in talks | filter:filterByDate('08 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
+      <md-list-item class="md-3-line" ng-repeat="($key, talk) in talks | filter:filterByDate('08 / 11 / 2015')" ng-click="openContent(talk.id, $event)">
         <img ng-src="{{talk.thumbnail}}" class="md-avatar" alt="{{talk.title}}">
         <div class="md-list-item-text">
-          <h3>{{talk.title}} - {{talk.custom_fields.meta_box_local[0]}}</h3>
+          <h3>{{talk.title}}</h3>
+          <h4>{{talk.custom_fields.meta_box_local[0]}}</h4>
           <p>{{talk.custom_fields.meta_box_talker[0]}} - {{talk.custom_fields.meta_box_hour[0]}}</p>
         </div>
       </md-list-item>

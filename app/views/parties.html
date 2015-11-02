@@ -1,4 +1,5 @@
-<md-tabs md-dynamic-height="" md-border-bottom="">
+<md-progress-linear md-mode="{{loading.status}}"></md-progress-linear>
+<md-tabs md-dynamic-height="" md-border-bottom="" ng-init="loadParties()">
   <md-tab label="05 Nov">
     <md-content class="md-padding">
       <md-list-item class="md-2-line party-item" ng-repeat="($key, party) in parties | filter:filterByDate('05 / 11 / 2015')">

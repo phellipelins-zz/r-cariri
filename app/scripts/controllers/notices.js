@@ -12,6 +12,9 @@ angular.module('rCaririApp')
     $rootScope.pageTitle = 'Notícias';
     $rootScope.pageIcon = 'paper';
     $scope.notices = [];
+    $scope.loading = {
+      status: 'indeterminate'
+    };
 
     $scope.loadNotices = function() {
       Notices.getNotices(function(data) {
@@ -19,6 +22,7 @@ angular.module('rCaririApp')
         for (var i =0; i < $scope.notices.length; i++) {
           $scope.notices[i].date = new Date($scope.notices[i].date);
         }
+        $scope.loading.status = 'null';
       });
     };
 

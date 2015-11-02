@@ -1,3 +1,11 @@
+md-progress-linear .md-bar {
+  background-color: $purple;
+}
+
+md-progress-linear[md-mode='null'], md-progress-linear[md-mode=''] {
+  height: 0;
+}
+
 md-ink-bar.md-left {
   background-color: $purple;
   color: $purple;
