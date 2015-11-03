@@ -119,6 +119,11 @@ button.md-button-custom {
   width: calc(100% - 16px);
 }
 
+.md-button.md-default-theme.md-primary:not([disabled]) {
+  background-color: $green !important;
+  color: white !important;
+}
+
 div#party-content img {
   display: block !important;
   margin-top: 10px !important;
